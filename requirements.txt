@@ -1,0 +1,7 @@
+wget
+sklearn
+pandas
+seaborn
+matplotlib
+dvc
+dvc[gdrive]
